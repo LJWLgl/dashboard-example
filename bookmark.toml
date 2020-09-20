@@ -1,21 +1,10 @@
-[readnote]
-name='读书笔记'
-sort=0
-    [[readnote.sites]]
-    url='https://mubu.com/doc/2TG2Oiz1mU'
-    name='秒杀系统读书笔记'
-    favicon='https://mubu.com/favicon.ico'
-    desc='极客时间秒杀笔记'
-    openType='iframe'
-    config.iframe-style='height:100%;width:100%;min-height:1000px'
-
 [tools]
 name='工具'
 sort=1
     [[tools.sites]]
-    url='https://www.666email.com'
-    name='666Email'
-    desc='10分钟邮箱'
+    url='https://www.bejson.com/zhuanyi/'
+    name='BEJSON'
+    desc='JSON压缩转义工具'
     [[tools.sites]]
     url='https://haveibeenpwned.com'
     name='社工库'
@@ -39,7 +28,9 @@ sort=1
     [[tools.sites]]
     url='https://colors.ichuantong.cn/'
     name='古典配色'
-
+    [[tools.sites]]
+    url='https://www.macwk.com/'
+    name='各种破解软件'
 [blog]
 name='订阅'
 sort=2
@@ -171,3 +162,10 @@ sort=4
     [[resource.sites]]
     url='http://www.btbtt.me/'
     name='BT之家'
+[vpn]
+name='VPN'
+sort=5
+    [[resource.sites]]
+    url='https://www.panhdpe.xyz/my-account'
+    name='Panda'
+
